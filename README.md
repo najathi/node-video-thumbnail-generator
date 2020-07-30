@@ -1,4 +1,4 @@
-# node-video-thumbnail-another"
+# node-video-thumbnail-another
 
 ### install the app
 
