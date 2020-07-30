@@ -7,4 +7,3 @@
 ### run the app
 
 `npm start`
-"# node-video-thumbnail-generator" 
